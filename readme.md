@@ -39,4 +39,5 @@ module.exports = withModuleFederationPlugin({
 });
 ```
 
-# Eso es todo. 🤙
+## Eso es todo para crear un microfront desde cero. 🤙
+### Para ejecutar los dos proyectos de este repo hacer `npm i` sobre cada uno y `ng serve`, ambos están ya configurados y se ejecutan sobre los puertos 4200 y 4201.
