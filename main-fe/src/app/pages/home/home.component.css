@@ -1,0 +1,24 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 3px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    margin-right: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: #666;
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
